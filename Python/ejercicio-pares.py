@@ -1,6 +1,6 @@
 # coding: utf8
 # Ferran March Azañero
-# 07/02/2018
+# 08/02/2018
 
 Numero=input ("Introduce el numero deseado:")
 if Numero % 2 == 0:
